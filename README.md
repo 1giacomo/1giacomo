@@ -2,7 +2,7 @@
 
 I'm a software engineer with a passion for AI, Web3 and new technologies. 💻
 
-## Recent Projects
+# Recent Projects
 🍅 Pomodoro timer
 
 🧮 JavaScript calculator
