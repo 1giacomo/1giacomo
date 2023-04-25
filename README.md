@@ -1,6 +1,10 @@
 ### Ciao 👋 I'm Giacomo
 
-I'm a software engineer with a passion for AI, Web3 and new technologies. 💻
+🤖 Interested in AI
+
+💼 Developer @ Notomia
+
+👨‍💻 Computer Science & Engineering Student @ PoliMI
 
 Recent Projects:
 🍅 Pomodoro timer
