@@ -1,4 +1,12 @@
-### Hi there 👋
+### Ciao 👋 I'm Giacomo
+
+I'm a software engineer with a passion for AI, Web3 and new technologies. 💻
+
+## Recent Projects
+🍅 Pomodoro timer
+🧮 JavaScript calculator
+
+Free to connect with me! 🤝
 
 <!--
 **1giacomo/1giacomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
