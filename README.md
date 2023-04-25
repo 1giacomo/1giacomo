@@ -1,14 +1,8 @@
 ### Ciao 👋 I'm Giacomo
-🤖 Interested in AI
-💼 Developer @ Notomia
+🤖 Interested in AI   
+💼 Developer @ Notomia    
 👨‍💻 Computer Science & Engineering Student @ PoliMI
 
-Recent Projects:
-🍅 Pomodoro timer
-
-🧮 JavaScript calculator
-
-Free to connect with me! 🤝
 
 <!--
 **1giacomo/1giacomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
