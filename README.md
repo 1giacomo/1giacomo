@@ -1,6 +1,5 @@
 ### Ciao 👋 I'm Giacomo
 🤖 Interested in AI   
-💼 Developer @ Notomia    
 👨‍💻 Computer Science & Engineering Student @ PoliMI
 
 <!--
