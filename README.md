@@ -1,6 +1,8 @@
 ### Ciao 👋 I'm Giacomo
 🤖 Interested in AI
+
 💼 Open to work
+
 👨‍💻 Computer Science & Engineering Student @ PoliMI
 
 <!--
