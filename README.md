@@ -19,7 +19,11 @@
 - [Timestamp Microservice](https://github.com/1giacomo/boilerplate-project-timestamp)
 
 ### Web App
-- 
+- [Weather App](https://github.com/1giacomo/weather-app) built with external API
+- [Pomodoro Timer 🍅](https://github.com/1giacomo/pomodoro-timer)
+- [Drum Machine 🥁](https://github.com/1giacomo/drum-machine)
+- [Quote Generator](https://github.com/1giacomo/RandomQuoteMachine)
+- [JavaScriptCalculator](https://github.com/1giacomo/JavaScriptCalculator)
 
 <!--
 ### Projects
