@@ -3,6 +3,17 @@
 💼 Open to work   
 👨‍💻 Computer Science & Engineering Student @ PoliMI
 
+## Projects
+
+### Web Dev
+
+### Data Analysis
+- [Sea Level Predictor 🌊](https://github.com/1giacomo/boilerplate-sea-level-predictor)
+- [Page View Time Series Visualizer](https://github.com/1giacomo/boilerplate-page-view-time-series-visualizer)
+- [Medical Data Visualizer](https://github.com/1giacomo/boilerplate-medical-data-visualizer)
+- [Demographic Data Analyzer](https://github.com/1giacomo/boilerplate-demographic-data-analyzer)
+- [Mean-Variance-Standard Deviation Calculator](https://github.com/1giacomo/boilerplate-mean-variance-standard-deviation-calculator)+
+
 <!--
 ### Projects
 #### 🍅 Pomodoro timer
