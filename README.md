@@ -12,7 +12,7 @@
 - [Demographic Data Analyzer](https://github.com/1giacomo/boilerplate-demographic-data-analyzer)
 - [Mean-Variance-Standard Deviation Calculator](https://github.com/1giacomo/boilerplate-mean-variance-standard-deviation-calculator)
 
-### Back-end Dev
+### Back-End Dev
 - [File Metadata Microservice](https://github.com/1giacomo/boilerplate-project-filemetadata) file analyzer
 - [Exercise Tracker](https://github.com/1giacomo/boilerplate-project-exercisetracker)
 - [URL Shortener Microservice](https://github.com/1giacomo/boilerplate-project-urlshortener)
