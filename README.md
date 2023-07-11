@@ -1,7 +1,7 @@
 ### Ciao 👋 I'm Giacomo
 🤖 Artificial Intelligence   
 ⚙️ Machine Learning   
-💼 Open to work   
+💼 Displaid  
 👨‍💻 Computer Science & Engineering Student @ PoliMI
 
 ## Projects
